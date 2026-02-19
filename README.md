@@ -24,4 +24,4 @@ As seguintes ferramentas e tecnologias foram empregadas na construção do proje
 
 - **HTML5:** Estruturação das páginas.
 - **CSS3:** Estilização, layout (Flexbox/Grid) e animações.
-- **Bootstrap / JavaScript:** *(Adicione aqui se você utilizou algum framework CSS ou scripts de interação)*.
+- **Bootstrap
